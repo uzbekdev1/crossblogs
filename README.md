@@ -19,6 +19,7 @@ Prerequisites:
 =====================================
 Development Environment
 =====================================
+
 MySQL:
 - Cross-blogs application require a MySQL database to store it's data. Make sure to update the file "appsettings.json" file, changing the connection string named "CrossBlog" to reference your MySQL server.
 
@@ -36,6 +37,7 @@ dotnet run
 =====================================
 To run unit tests
 =====================================
+
 - On any terminal move to the "crossblog.tests" folder (the folder containing the "crossblog.tests.csproj" file) and execute these commands:
 
 dotnet restore
@@ -49,5 +51,6 @@ coverage.bat
 =====================================
 Some Curl command examples
 =====================================
+
 curl -i -H "Content-Type: application/json" -X POST -d "{'title':'How to use docker', 'content':'xyz', 'date': '2018-03-10', 'published':false}" http://localhost:5000/articles
 curl -i -H "Content-Type: application/json" http://localhost:5000/articles/search?title=doc
