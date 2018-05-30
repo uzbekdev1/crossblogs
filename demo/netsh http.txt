@@ -1,0 +1,13 @@
+﻿
+External Network Access Problems:
+
+https://weblog.west-wind.com/posts/2016/Sep/28/External-Network-Access-to-Kestrel-and-IIS-Express-in-ASPNET-Core
+https://stackoverflow.com/questions/34212765/how-do-i-get-the-kestrel-web-server-to-listen-to-non-localhost-requests
+https://github.com/react-boilerplate/react-boilerplate/issues/373
+https://superuser.com/questions/455280/windows-fastest-way-of-killing-a-process-running-on-a-specific-port
+
+Permission for 5000 ports:
+
+netsh http add iplisten ipaddress=0.0.0.0:5000
+netsh http add iplisten ipaddress=::5000
+netsh http add urlacl url=http://+:5000/ user=\Everyone

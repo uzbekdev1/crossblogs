@@ -1,0 +1,3078 @@
+{
+ "D:\\projects\\crossblogs\\crossblog.tests\\bin\\Debug\\netcoreapp2.0\\crossblog.dll": {
+  "D:\\projects\\crossblogs\\crossblog\\BlogContextFactory.cs": {
+   "crossblog.BlogContextFactory": {
+    "crossblog.Domain.CrossBlogDbContext crossblog.BlogContextFactory::CreateDbContext(System.String[])": {
+     "Lines": {
+      "17": {
+       "Hits": 0
+      },
+      "18": {
+       "Hits": 0
+      },
+      "19": {
+       "Hits": 0
+      },
+      "20": {
+       "Hits": 0
+      },
+      "21": {
+       "Hits": 0
+      },
+      "22": {
+       "Hits": 0
+      },
+      "23": {
+       "Hits": 0
+      },
+      "25": {
+       "Hits": 0
+      },
+      "27": {
+       "Hits": 0
+      },
+      "28": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\BlogDbInitializer.cs": {
+   "crossblog.BlogDbInitializer": {
+    "System.Void crossblog.BlogDbInitializer::.ctor(crossblog.Domain.CrossBlogDbContext)": {
+     "Lines": {
+      "14": {
+       "Hits": 0
+      },
+      "15": {
+       "Hits": 0
+      },
+      "16": {
+       "Hits": 0
+      },
+      "17": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "16": [{
+       "Offset": 11,
+       "EndOffset": 13,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 11,
+       "EndOffset": 25,
+       "Path": 1,
+       "Ordinal": 1
+      }]
+     }
+    },
+    "System.Void crossblog.BlogDbInitializer::Seed()": {
+     "Lines": {
+      "20": {
+       "Hits": 0
+      },
+      "22": {
+       "Hits": 0
+      },
+      "25": {
+       "Hits": 0
+      },
+      "26": {
+       "Hits": 0
+      },
+      "27": {
+       "Hits": 0
+      },
+      "28": {
+       "Hits": 0
+      },
+      "29": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "25": [{
+       "Offset": 34,
+       "EndOffset": 36,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 34,
+       "EndOffset": 57,
+       "Path": 1,
+       "Ordinal": 1
+      }, {
+       "Offset": 60,
+       "EndOffset": 62,
+       "Path": 0,
+       "Ordinal": 2
+      }, {
+       "Offset": 60,
+       "EndOffset": 76,
+       "Path": 1,
+       "Ordinal": 3
+      }]
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\Program.cs": {
+   "crossblog.Program": {
+    "System.Void crossblog.Program::Main(System.String[])": {
+     "Lines": {
+      "18": {
+       "Hits": 0
+      },
+      "19": {
+       "Hits": 0
+      },
+      "20": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "Microsoft.AspNetCore.Hosting.IWebHost crossblog.Program::BuildWebHost(System.String[])": {
+     "Lines": {
+      "23": {
+       "Hits": 0
+      },
+      "24": {
+       "Hits": 0
+      },
+      "25": {
+       "Hits": 0
+      },
+      "26": {
+       "Hits": 0
+      },
+      "28": {
+       "Hits": 0
+      },
+      "29": {
+       "Hits": 0
+      },
+      "30": {
+       "Hits": 0
+      },
+      "32": {
+       "Hits": 0
+      },
+      "33": {
+       "Hits": 0
+      },
+      "35": {
+       "Hits": 0
+      },
+      "36": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\Startup.cs": {
+   "crossblog.Startup": {
+    "System.Void crossblog.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+     "Lines": {
+      "22": {
+       "Hits": 0
+      },
+      "23": {
+       "Hits": 0
+      },
+      "24": {
+       "Hits": 0
+      },
+      "25": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "Microsoft.Extensions.Configuration.IConfiguration crossblog.Startup::get_Configuration()": {
+     "Lines": {
+      "27": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.Void crossblog.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+     "Lines": {
+      "31": {
+       "Hits": 0
+      },
+      "33": {
+       "Hits": 0
+      },
+      "36": {
+       "Hits": 0
+      },
+      "39": {
+       "Hits": 0
+      },
+      "40": {
+       "Hits": 0
+      },
+      "41": {
+       "Hits": 0
+      },
+      "44": {
+       "Hits": 0
+      },
+      "45": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.Void crossblog.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)": {
+     "Lines": {
+      "49": {
+       "Hits": 0
+      },
+      "51": {
+       "Hits": 0
+      },
+      "52": {
+       "Hits": 0
+      },
+      "53": {
+       "Hits": 0
+      },
+      "54": {
+       "Hits": 0
+      },
+      "56": {
+       "Hits": 0
+      },
+      "57": {
+       "Hits": 0
+      },
+      "58": {
+       "Hits": 0
+      },
+      "59": {
+       "Hits": 0
+      },
+      "61": {
+       "Hits": 0
+      },
+      "63": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "51": [{
+       "Offset": 9,
+       "EndOffset": 11,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 9,
+       "EndOffset": 22,
+       "Path": 1,
+       "Ordinal": 1
+      }],
+      "57": [{
+       "Offset": 30,
+       "EndOffset": 32,
+       "Path": 0,
+       "Ordinal": 2
+      }, {
+       "Offset": 30,
+       "EndOffset": 55,
+       "Path": 1,
+       "Ordinal": 3
+      }]
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\Repositories\\ArticleRepository.cs": {
+   "crossblog.Repositories.ArticleRepository": {
+    "System.Void crossblog.Repositories.ArticleRepository::.ctor(crossblog.Domain.CrossBlogDbContext)": {
+     "Lines": {
+      "7": {
+       "Hits": 0
+      },
+      "8": {
+       "Hits": 0
+      },
+      "9": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\Repositories\\CommentRepository.cs": {
+   "crossblog.Repositories.CommentRepository": {
+    "System.Void crossblog.Repositories.CommentRepository::.ctor(crossblog.Domain.CrossBlogDbContext)": {
+     "Lines": {
+      "7": {
+       "Hits": 0
+      },
+      "8": {
+       "Hits": 0
+      },
+      "9": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\Repositories\\GenericRepository.cs": {
+   "crossblog.Repositories.GenericRepository`1": {
+    "System.Void crossblog.Repositories.GenericRepository`1::.ctor(crossblog.Domain.CrossBlogDbContext)": {
+     "Lines": {
+      "14": {
+       "Hits": 0
+      },
+      "15": {
+       "Hits": 0
+      },
+      "16": {
+       "Hits": 0
+      },
+      "17": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "16": [{
+       "Offset": 11,
+       "EndOffset": 13,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 11,
+       "EndOffset": 25,
+       "Path": 1,
+       "Ordinal": 1
+      }]
+     }
+    },
+    "crossblog.Domain.CrossBlogDbContext crossblog.Repositories.GenericRepository`1::get_DbContext()": {
+     "Lines": {
+      "19": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.Linq.IQueryable`1<T> crossblog.Repositories.GenericRepository`1::Query()": {
+     "Lines": {
+      "22": {
+       "Hits": 0
+      },
+      "23": {
+       "Hits": 0
+      },
+      "24": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    }
+   },
+   "crossblog.Repositories.GenericRepository`1/<GetAsync>d__5": {
+    "System.Void crossblog.Repositories.GenericRepository`1/<GetAsync>d__5::MoveNext()": {
+     "Lines": {
+      "27": {
+       "Hits": 0
+      },
+      "28": {
+       "Hits": 0
+      },
+      "29": {
+       "Hits": 0
+      },
+      "31": {
+       "Hits": 0
+      },
+      "32": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "28": [{
+       "Offset": 31,
+       "EndOffset": 33,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 31,
+       "EndOffset": 44,
+       "Path": 1,
+       "Ordinal": 1
+      }],
+      "31": [{
+       "Offset": 98,
+       "EndOffset": 100,
+       "Path": 0,
+       "Ordinal": 2
+      }, {
+       "Offset": 98,
+       "EndOffset": 165,
+       "Path": 1,
+       "Ordinal": 3
+      }]
+     }
+    }
+   },
+   "crossblog.Repositories.GenericRepository`1/<InsertAsync>d__6": {
+    "System.Void crossblog.Repositories.GenericRepository`1/<InsertAsync>d__6::MoveNext()": {
+     "Lines": {
+      "35": {
+       "Hits": 0
+      },
+      "36": {
+       "Hits": 0
+      },
+      "37": {
+       "Hits": 0
+      },
+      "39": {
+       "Hits": 0
+      },
+      "40": {
+       "Hits": 0
+      },
+      "42": {
+       "Hits": 0
+      },
+      "44": {
+       "Hits": 0
+      },
+      "45": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "36": [{
+       "Offset": 34,
+       "EndOffset": 36,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 34,
+       "EndOffset": 47,
+       "Path": 1,
+       "Ordinal": 1
+      }],
+      "44": [{
+       "Offset": 157,
+       "EndOffset": 159,
+       "Path": 0,
+       "Ordinal": 2
+      }, {
+       "Offset": 157,
+       "EndOffset": 224,
+       "Path": 1,
+       "Ordinal": 3
+      }]
+     }
+    }
+   },
+   "crossblog.Repositories.GenericRepository`1/<UpdateAsync>d__7": {
+    "System.Void crossblog.Repositories.GenericRepository`1/<UpdateAsync>d__7::MoveNext()": {
+     "Lines": {
+      "48": {
+       "Hits": 0
+      },
+      "49": {
+       "Hits": 0
+      },
+      "50": {
+       "Hits": 0
+      },
+      "52": {
+       "Hits": 0
+      },
+      "54": {
+       "Hits": 0
+      },
+      "56": {
+       "Hits": 0
+      },
+      "57": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "49": [{
+       "Offset": 34,
+       "EndOffset": 36,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 34,
+       "EndOffset": 47,
+       "Path": 1,
+       "Ordinal": 1
+      }],
+      "56": [{
+       "Offset": 136,
+       "EndOffset": 138,
+       "Path": 0,
+       "Ordinal": 2
+      }, {
+       "Offset": 136,
+       "EndOffset": 203,
+       "Path": 1,
+       "Ordinal": 3
+      }]
+     }
+    }
+   },
+   "crossblog.Repositories.GenericRepository`1/<DeleteAsync>d__8": {
+    "System.Void crossblog.Repositories.GenericRepository`1/<DeleteAsync>d__8::MoveNext()": {
+     "Lines": {
+      "60": {
+       "Hits": 0
+      },
+      "61": {
+       "Hits": 0
+      },
+      "62": {
+       "Hits": 0
+      },
+      "64": {
+       "Hits": 0
+      },
+      "66": {
+       "Hits": 0
+      },
+      "67": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "61": [{
+       "Offset": 34,
+       "EndOffset": 36,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 34,
+       "EndOffset": 47,
+       "Path": 1,
+       "Ordinal": 1
+      }],
+      "66": [{
+       "Offset": 114,
+       "EndOffset": 116,
+       "Path": 0,
+       "Ordinal": 2
+      }, {
+       "Offset": 114,
+       "EndOffset": 181,
+       "Path": 1,
+       "Ordinal": 3
+      }]
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\Model\\ArticleListModel.cs": {
+   "crossblog.Model.ArticleListModel": {
+    "System.Collections.Generic.IEnumerable`1<crossblog.Model.ArticleModel> crossblog.Model.ArticleListModel::get_Articles()": {
+     "Lines": {
+      "7": {
+       "Hits": 6
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.Void crossblog.Model.ArticleListModel::.ctor()": {
+     "Lines": {
+      "9": {
+       "Hits": 2
+      },
+      "10": {
+       "Hits": 2
+      },
+      "11": {
+       "Hits": 2
+      },
+      "12": {
+       "Hits": 2
+      }
+     },
+     "Branches": {
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\Model\\ArticleModel.cs": {
+   "crossblog.Model.ArticleModel": {
+    "System.Int32 crossblog.Model.ArticleModel::get_Id()": {
+     "Lines": {
+      "8": {
+       "Hits": 4
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.String crossblog.Model.ArticleModel::get_Title()": {
+     "Lines": {
+      "12": {
+       "Hits": 5
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.String crossblog.Model.ArticleModel::get_Content()": {
+     "Lines": {
+      "16": {
+       "Hits": 4
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.DateTime crossblog.Model.ArticleModel::get_Date()": {
+     "Lines": {
+      "18": {
+       "Hits": 4
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.Boolean crossblog.Model.ArticleModel::get_Published()": {
+     "Lines": {
+      "20": {
+       "Hits": 4
+      }
+     },
+     "Branches": {
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\Model\\CommentListModel.cs": {
+   "crossblog.Model.CommentListModel": {
+    "System.Collections.Generic.IEnumerable`1<crossblog.Model.CommentModel> crossblog.Model.CommentListModel::get_Comments()": {
+     "Lines": {
+      "7": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.Void crossblog.Model.CommentListModel::.ctor()": {
+     "Lines": {
+      "9": {
+       "Hits": 0
+      },
+      "10": {
+       "Hits": 0
+      },
+      "11": {
+       "Hits": 0
+      },
+      "12": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\Model\\CommentModel.cs": {
+   "crossblog.Model.CommentModel": {
+    "System.Int32 crossblog.Model.CommentModel::get_Id()": {
+     "Lines": {
+      "8": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.String crossblog.Model.CommentModel::get_Email()": {
+     "Lines": {
+      "11": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.String crossblog.Model.CommentModel::get_Title()": {
+     "Lines": {
+      "15": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.String crossblog.Model.CommentModel::get_Content()": {
+     "Lines": {
+      "19": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.DateTime crossblog.Model.CommentModel::get_Date()": {
+     "Lines": {
+      "21": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.Boolean crossblog.Model.CommentModel::get_Published()": {
+     "Lines": {
+      "23": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\Migrations\\20180526222234_Init.cs": {
+   "crossblog.Migrations.Init": {
+    "System.Void crossblog.Migrations.Init::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+     "Lines": {
+      "11": {
+       "Hits": 0
+      },
+      "12": {
+       "Hits": 0
+      },
+      "13": {
+       "Hits": 0
+      },
+      "14": {
+       "Hits": 0
+      },
+      "15": {
+       "Hits": 0
+      },
+      "16": {
+       "Hits": 0
+      },
+      "17": {
+       "Hits": 0
+      },
+      "18": {
+       "Hits": 0
+      },
+      "19": {
+       "Hits": 0
+      },
+      "20": {
+       "Hits": 0
+      },
+      "21": {
+       "Hits": 0
+      },
+      "22": {
+       "Hits": 0
+      },
+      "23": {
+       "Hits": 0
+      },
+      "24": {
+       "Hits": 0
+      },
+      "25": {
+       "Hits": 0
+      },
+      "26": {
+       "Hits": 0
+      },
+      "27": {
+       "Hits": 0
+      },
+      "28": {
+       "Hits": 0
+      },
+      "30": {
+       "Hits": 0
+      },
+      "31": {
+       "Hits": 0
+      },
+      "32": {
+       "Hits": 0
+      },
+      "33": {
+       "Hits": 0
+      },
+      "34": {
+       "Hits": 0
+      },
+      "35": {
+       "Hits": 0
+      },
+      "36": {
+       "Hits": 0
+      },
+      "37": {
+       "Hits": 0
+      },
+      "38": {
+       "Hits": 0
+      },
+      "39": {
+       "Hits": 0
+      },
+      "40": {
+       "Hits": 0
+      },
+      "41": {
+       "Hits": 0
+      },
+      "42": {
+       "Hits": 0
+      },
+      "43": {
+       "Hits": 0
+      },
+      "44": {
+       "Hits": 0
+      },
+      "45": {
+       "Hits": 0
+      },
+      "46": {
+       "Hits": 0
+      },
+      "47": {
+       "Hits": 0
+      },
+      "48": {
+       "Hits": 0
+      },
+      "49": {
+       "Hits": 0
+      },
+      "50": {
+       "Hits": 0
+      },
+      "51": {
+       "Hits": 0
+      },
+      "52": {
+       "Hits": 0
+      },
+      "53": {
+       "Hits": 0
+      },
+      "54": {
+       "Hits": 0
+      },
+      "55": {
+       "Hits": 0
+      },
+      "56": {
+       "Hits": 0
+      },
+      "57": {
+       "Hits": 0
+      },
+      "58": {
+       "Hits": 0
+      },
+      "59": {
+       "Hits": 0
+      },
+      "60": {
+       "Hits": 0
+      },
+      "61": {
+       "Hits": 0
+      },
+      "63": {
+       "Hits": 0
+      },
+      "64": {
+       "Hits": 0
+      },
+      "65": {
+       "Hits": 0
+      },
+      "66": {
+       "Hits": 0
+      },
+      "68": {
+       "Hits": 0
+      },
+      "69": {
+       "Hits": 0
+      },
+      "70": {
+       "Hits": 0
+      },
+      "71": {
+       "Hits": 0
+      },
+      "72": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "12": [{
+       "Offset": 13,
+       "EndOffset": 15,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 13,
+       "EndOffset": 38,
+       "Path": 1,
+       "Ordinal": 1
+      }, {
+       "Offset": 45,
+       "EndOffset": 47,
+       "Path": 0,
+       "Ordinal": 2
+      }, {
+       "Offset": 45,
+       "EndOffset": 70,
+       "Path": 1,
+       "Ordinal": 3
+      }],
+      "30": [{
+       "Offset": 88,
+       "EndOffset": 90,
+       "Path": 0,
+       "Ordinal": 4
+      }, {
+       "Offset": 88,
+       "EndOffset": 113,
+       "Path": 1,
+       "Ordinal": 5
+      }, {
+       "Offset": 120,
+       "EndOffset": 122,
+       "Path": 0,
+       "Ordinal": 6
+      }, {
+       "Offset": 120,
+       "EndOffset": 145,
+       "Path": 1,
+       "Ordinal": 7
+      }]
+     }
+    },
+    "System.Void crossblog.Migrations.Init::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+     "Lines": {
+      "75": {
+       "Hits": 0
+      },
+      "76": {
+       "Hits": 0
+      },
+      "77": {
+       "Hits": 0
+      },
+      "79": {
+       "Hits": 0
+      },
+      "80": {
+       "Hits": 0
+      },
+      "81": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\Migrations\\20180526222234_Init.Designer.cs": {
+   "crossblog.Migrations.Init": {
+    "System.Void crossblog.Migrations.Init::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+     "Lines": {
+      "18": {
+       "Hits": 0
+      },
+      "20": {
+       "Hits": 0
+      },
+      "21": {
+       "Hits": 0
+      },
+      "22": {
+       "Hits": 0
+      },
+      "24": {
+       "Hits": 0
+      },
+      "25": {
+       "Hits": 0
+      },
+      "26": {
+       "Hits": 0
+      },
+      "27": {
+       "Hits": 0
+      },
+      "28": {
+       "Hits": 0
+      },
+      "29": {
+       "Hits": 0
+      },
+      "30": {
+       "Hits": 0
+      },
+      "31": {
+       "Hits": 0
+      },
+      "32": {
+       "Hits": 0
+      },
+      "33": {
+       "Hits": 0
+      },
+      "34": {
+       "Hits": 0
+      },
+      "35": {
+       "Hits": 0
+      },
+      "36": {
+       "Hits": 0
+      },
+      "37": {
+       "Hits": 0
+      },
+      "38": {
+       "Hits": 0
+      },
+      "39": {
+       "Hits": 0
+      },
+      "40": {
+       "Hits": 0
+      },
+      "41": {
+       "Hits": 0
+      },
+      "42": {
+       "Hits": 0
+      },
+      "43": {
+       "Hits": 0
+      },
+      "44": {
+       "Hits": 0
+      },
+      "45": {
+       "Hits": 0
+      },
+      "46": {
+       "Hits": 0
+      },
+      "47": {
+       "Hits": 0
+      },
+      "48": {
+       "Hits": 0
+      },
+      "49": {
+       "Hits": 0
+      },
+      "51": {
+       "Hits": 0
+      },
+      "52": {
+       "Hits": 0
+      },
+      "53": {
+       "Hits": 0
+      },
+      "54": {
+       "Hits": 0
+      },
+      "55": {
+       "Hits": 0
+      },
+      "56": {
+       "Hits": 0
+      },
+      "57": {
+       "Hits": 0
+      },
+      "58": {
+       "Hits": 0
+      },
+      "59": {
+       "Hits": 0
+      },
+      "60": {
+       "Hits": 0
+      },
+      "61": {
+       "Hits": 0
+      },
+      "62": {
+       "Hits": 0
+      },
+      "63": {
+       "Hits": 0
+      },
+      "64": {
+       "Hits": 0
+      },
+      "65": {
+       "Hits": 0
+      },
+      "66": {
+       "Hits": 0
+      },
+      "67": {
+       "Hits": 0
+      },
+      "68": {
+       "Hits": 0
+      },
+      "69": {
+       "Hits": 0
+      },
+      "70": {
+       "Hits": 0
+      },
+      "71": {
+       "Hits": 0
+      },
+      "72": {
+       "Hits": 0
+      },
+      "73": {
+       "Hits": 0
+      },
+      "74": {
+       "Hits": 0
+      },
+      "75": {
+       "Hits": 0
+      },
+      "76": {
+       "Hits": 0
+      },
+      "77": {
+       "Hits": 0
+      },
+      "78": {
+       "Hits": 0
+      },
+      "79": {
+       "Hits": 0
+      },
+      "80": {
+       "Hits": 0
+      },
+      "81": {
+       "Hits": 0
+      },
+      "82": {
+       "Hits": 0
+      },
+      "83": {
+       "Hits": 0
+      },
+      "84": {
+       "Hits": 0
+      },
+      "85": {
+       "Hits": 0
+      },
+      "86": {
+       "Hits": 0
+      },
+      "87": {
+       "Hits": 0
+      },
+      "88": {
+       "Hits": 0
+      },
+      "90": {
+       "Hits": 0
+      },
+      "91": {
+       "Hits": 0
+      },
+      "92": {
+       "Hits": 0
+      },
+      "93": {
+       "Hits": 0
+      },
+      "94": {
+       "Hits": 0
+      },
+      "95": {
+       "Hits": 0
+      },
+      "96": {
+       "Hits": 0
+      },
+      "97": {
+       "Hits": 0
+      },
+      "98": {
+       "Hits": 0
+      },
+      "99": {
+       "Hits": 0
+      },
+      "100": {
+       "Hits": 0
+      },
+      "102": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "24": [{
+       "Offset": 46,
+       "EndOffset": 48,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 46,
+       "EndOffset": 71,
+       "Path": 1,
+       "Ordinal": 1
+      }],
+      "51": [{
+       "Offset": 89,
+       "EndOffset": 91,
+       "Path": 0,
+       "Ordinal": 2
+      }, {
+       "Offset": 89,
+       "EndOffset": 114,
+       "Path": 1,
+       "Ordinal": 3
+      }],
+      "90": [{
+       "Offset": 132,
+       "EndOffset": 134,
+       "Path": 0,
+       "Ordinal": 4
+      }, {
+       "Offset": 132,
+       "EndOffset": 157,
+       "Path": 1,
+       "Ordinal": 5
+      }]
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\Migrations\\CrossBlogDbContextModelSnapshot.cs": {
+   "crossblog.Migrations.CrossBlogDbContextModelSnapshot": {
+    "System.Void crossblog.Migrations.CrossBlogDbContextModelSnapshot::BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+     "Lines": {
+      "17": {
+       "Hits": 0
+      },
+      "19": {
+       "Hits": 0
+      },
+      "20": {
+       "Hits": 0
+      },
+      "21": {
+       "Hits": 0
+      },
+      "23": {
+       "Hits": 0
+      },
+      "24": {
+       "Hits": 0
+      },
+      "25": {
+       "Hits": 0
+      },
+      "26": {
+       "Hits": 0
+      },
+      "27": {
+       "Hits": 0
+      },
+      "28": {
+       "Hits": 0
+      },
+      "29": {
+       "Hits": 0
+      },
+      "30": {
+       "Hits": 0
+      },
+      "31": {
+       "Hits": 0
+      },
+      "32": {
+       "Hits": 0
+      },
+      "33": {
+       "Hits": 0
+      },
+      "34": {
+       "Hits": 0
+      },
+      "35": {
+       "Hits": 0
+      },
+      "36": {
+       "Hits": 0
+      },
+      "37": {
+       "Hits": 0
+      },
+      "38": {
+       "Hits": 0
+      },
+      "39": {
+       "Hits": 0
+      },
+      "40": {
+       "Hits": 0
+      },
+      "41": {
+       "Hits": 0
+      },
+      "42": {
+       "Hits": 0
+      },
+      "43": {
+       "Hits": 0
+      },
+      "44": {
+       "Hits": 0
+      },
+      "45": {
+       "Hits": 0
+      },
+      "46": {
+       "Hits": 0
+      },
+      "47": {
+       "Hits": 0
+      },
+      "48": {
+       "Hits": 0
+      },
+      "50": {
+       "Hits": 0
+      },
+      "51": {
+       "Hits": 0
+      },
+      "52": {
+       "Hits": 0
+      },
+      "53": {
+       "Hits": 0
+      },
+      "54": {
+       "Hits": 0
+      },
+      "55": {
+       "Hits": 0
+      },
+      "56": {
+       "Hits": 0
+      },
+      "57": {
+       "Hits": 0
+      },
+      "58": {
+       "Hits": 0
+      },
+      "59": {
+       "Hits": 0
+      },
+      "60": {
+       "Hits": 0
+      },
+      "61": {
+       "Hits": 0
+      },
+      "62": {
+       "Hits": 0
+      },
+      "63": {
+       "Hits": 0
+      },
+      "64": {
+       "Hits": 0
+      },
+      "65": {
+       "Hits": 0
+      },
+      "66": {
+       "Hits": 0
+      },
+      "67": {
+       "Hits": 0
+      },
+      "68": {
+       "Hits": 0
+      },
+      "69": {
+       "Hits": 0
+      },
+      "70": {
+       "Hits": 0
+      },
+      "71": {
+       "Hits": 0
+      },
+      "72": {
+       "Hits": 0
+      },
+      "73": {
+       "Hits": 0
+      },
+      "74": {
+       "Hits": 0
+      },
+      "75": {
+       "Hits": 0
+      },
+      "76": {
+       "Hits": 0
+      },
+      "77": {
+       "Hits": 0
+      },
+      "78": {
+       "Hits": 0
+      },
+      "79": {
+       "Hits": 0
+      },
+      "80": {
+       "Hits": 0
+      },
+      "81": {
+       "Hits": 0
+      },
+      "82": {
+       "Hits": 0
+      },
+      "83": {
+       "Hits": 0
+      },
+      "84": {
+       "Hits": 0
+      },
+      "85": {
+       "Hits": 0
+      },
+      "86": {
+       "Hits": 0
+      },
+      "87": {
+       "Hits": 0
+      },
+      "89": {
+       "Hits": 0
+      },
+      "90": {
+       "Hits": 0
+      },
+      "91": {
+       "Hits": 0
+      },
+      "92": {
+       "Hits": 0
+      },
+      "93": {
+       "Hits": 0
+      },
+      "94": {
+       "Hits": 0
+      },
+      "95": {
+       "Hits": 0
+      },
+      "96": {
+       "Hits": 0
+      },
+      "97": {
+       "Hits": 0
+      },
+      "98": {
+       "Hits": 0
+      },
+      "99": {
+       "Hits": 0
+      },
+      "101": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "23": [{
+       "Offset": 46,
+       "EndOffset": 48,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 46,
+       "EndOffset": 71,
+       "Path": 1,
+       "Ordinal": 1
+      }],
+      "50": [{
+       "Offset": 89,
+       "EndOffset": 91,
+       "Path": 0,
+       "Ordinal": 2
+      }, {
+       "Offset": 89,
+       "EndOffset": 114,
+       "Path": 1,
+       "Ordinal": 3
+      }],
+      "89": [{
+       "Offset": 132,
+       "EndOffset": 134,
+       "Path": 0,
+       "Ordinal": 4
+      }, {
+       "Offset": 132,
+       "EndOffset": 157,
+       "Path": 1,
+       "Ordinal": 5
+      }]
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\Exceptions\\HttpStatusCodeException.cs": {
+   "crossblog.Exceptions.HttpStatusCodeException": {
+    "System.Int32 crossblog.Exceptions.HttpStatusCodeException::get_StatusCode()": {
+     "Lines": {
+      "8": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.String crossblog.Exceptions.HttpStatusCodeException::get_ContentType()": {
+     "Lines": {
+      "10": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.Void crossblog.Exceptions.HttpStatusCodeException::.ctor(System.Int32)": {
+     "Lines": {
+      "12": {
+       "Hits": 0
+      },
+      "13": {
+       "Hits": 0
+      },
+      "14": {
+       "Hits": 0
+      },
+      "15": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.Void crossblog.Exceptions.HttpStatusCodeException::.ctor(System.Int32,System.String)": {
+     "Lines": {
+      "17": {
+       "Hits": 0
+      },
+      "18": {
+       "Hits": 0
+      },
+      "19": {
+       "Hits": 0
+      },
+      "20": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.Void crossblog.Exceptions.HttpStatusCodeException::.ctor(System.Int32,System.Exception)": {
+     "Lines": {
+      "22": {
+       "Hits": 0
+      },
+      "23": {
+       "Hits": 0
+      },
+      "24": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "22": [{
+       "Offset": 3,
+       "EndOffset": 5,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 3,
+       "EndOffset": 8,
+       "Path": 1,
+       "Ordinal": 1
+      }]
+     }
+    },
+    "System.Void crossblog.Exceptions.HttpStatusCodeException::.ctor(System.Int32,Newtonsoft.Json.Linq.JObject)": {
+     "Lines": {
+      "26": {
+       "Hits": 0
+      },
+      "27": {
+       "Hits": 0
+      },
+      "28": {
+       "Hits": 0
+      },
+      "29": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "26": [{
+       "Offset": 3,
+       "EndOffset": 5,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 3,
+       "EndOffset": 8,
+       "Path": 1,
+       "Ordinal": 1
+      }]
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\Exceptions\\HttpStatusCodeExceptionMiddleware.cs": {
+   "crossblog.Exceptions.HttpStatusCodeExceptionMiddleware": {
+    "System.Void crossblog.Exceptions.HttpStatusCodeExceptionMiddleware::.ctor(Microsoft.AspNetCore.Http.RequestDelegate,Microsoft.Extensions.Logging.ILoggerFactory)": {
+     "Lines": {
+      "13": {
+       "Hits": 0
+      },
+      "14": {
+       "Hits": 0
+      },
+      "15": {
+       "Hits": 0
+      },
+      "17": {
+       "Hits": 0
+      },
+      "18": {
+       "Hits": 0
+      },
+      "20": {
+       "Hits": 0
+      },
+      "22": {
+       "Hits": 0
+      },
+      "23": {
+       "Hits": 0
+      },
+      "24": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "15": [{
+       "Offset": 11,
+       "EndOffset": 13,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 11,
+       "EndOffset": 25,
+       "Path": 1,
+       "Ordinal": 1
+      }],
+      "17": [{
+       "Offset": 36,
+       "EndOffset": 38,
+       "Path": 0,
+       "Ordinal": 2
+      }, {
+       "Offset": 36,
+       "EndOffset": 49,
+       "Path": 1,
+       "Ordinal": 3
+      }],
+      "22": [{
+       "Offset": 72,
+       "EndOffset": 74,
+       "Path": 0,
+       "Ordinal": 4
+      }, {
+       "Offset": 72,
+       "EndOffset": 85,
+       "Path": 1,
+       "Ordinal": 5
+      }]
+     }
+    }
+   },
+   "crossblog.Exceptions.HttpStatusCodeExceptionMiddleware/<Invoke>d__3": {
+    "System.Void crossblog.Exceptions.HttpStatusCodeExceptionMiddleware/<Invoke>d__3::MoveNext()": {
+     "Lines": {
+      "27": {
+       "Hits": 0
+      },
+      "28": {
+       "Hits": 0
+      },
+      "29": {
+       "Hits": 0
+      },
+      "32": {
+       "Hits": 0
+      },
+      "33": {
+       "Hits": 0
+      },
+      "34": {
+       "Hits": 0
+      },
+      "35": {
+       "Hits": 0
+      },
+      "36": {
+       "Hits": 0
+      },
+      "37": {
+       "Hits": 0
+      },
+      "38": {
+       "Hits": 0
+      },
+      "39": {
+       "Hits": 0
+      },
+      "41": {
+       "Hits": 0
+      },
+      "42": {
+       "Hits": 0
+      },
+      "44": {
+       "Hits": 0
+      },
+      "45": {
+       "Hits": 0
+      },
+      "46": {
+       "Hits": 0
+      },
+      "48": {
+       "Hits": 0
+      },
+      "50": {
+       "Hits": 0
+      },
+      "52": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "27": [{
+       "Offset": 14,
+       "EndOffset": 25,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 14,
+       "EndOffset": 487,
+       "Path": 1,
+       "Ordinal": 1
+      }],
+      "28": [{
+       "Offset": 37,
+       "EndOffset": 39,
+       "Path": 0,
+       "Ordinal": 2
+      }, {
+       "Offset": 37,
+       "EndOffset": 50,
+       "Path": 1,
+       "Ordinal": 3
+      }],
+      "29": [{
+       "Offset": 59,
+       "EndOffset": 65,
+       "Path": 0,
+       "Ordinal": 4
+      }, {
+       "Offset": 59,
+       "EndOffset": 142,
+       "Path": 1,
+       "Ordinal": 5
+      }],
+      "33": [{
+       "Offset": 101,
+       "EndOffset": 103,
+       "Path": 0,
+       "Ordinal": 6
+      }, {
+       "Offset": 101,
+       "EndOffset": 170,
+       "Path": 1,
+       "Ordinal": 7
+      }],
+      "35": [{
+       "Offset": 211,
+       "EndOffset": 218,
+       "Path": 1,
+       "Ordinal": 9
+      }, {
+       "Offset": 211,
+       "EndOffset": 526,
+       "Path": 0,
+       "Ordinal": 8
+      }],
+      "37": [{
+       "Offset": 256,
+       "EndOffset": 258,
+       "Path": 0,
+       "Ordinal": 10
+      }, {
+       "Offset": 256,
+       "EndOffset": 324,
+       "Path": 1,
+       "Ordinal": 11
+      }],
+      "41": [{
+       "Offset": 301,
+       "EndOffset": 303,
+       "Path": 0,
+       "Ordinal": 12
+      }, {
+       "Offset": 301,
+       "EndOffset": 310,
+       "Path": 1,
+       "Ordinal": 13
+      }],
+      "48": [{
+       "Offset": 448,
+       "EndOffset": 450,
+       "Path": 0,
+       "Ordinal": 14
+      }, {
+       "Offset": 448,
+       "EndOffset": 516,
+       "Path": 1,
+       "Ordinal": 15
+      }]
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\Exceptions\\HttpStatusCodeExceptionMiddlewareExtensions.cs": {
+   "crossblog.Exceptions.HttpStatusCodeExceptionMiddlewareExtensions": {
+    "Microsoft.AspNetCore.Builder.IApplicationBuilder crossblog.Exceptions.HttpStatusCodeExceptionMiddlewareExtensions::UseHttpStatusCodeExceptionMiddleware(Microsoft.AspNetCore.Builder.IApplicationBuilder)": {
+     "Lines": {
+      "9": {
+       "Hits": 0
+      },
+      "10": {
+       "Hits": 0
+      },
+      "11": {
+       "Hits": 0
+      },
+      "13": {
+       "Hits": 0
+      },
+      "14": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "10": [{
+       "Offset": 7,
+       "EndOffset": 9,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 7,
+       "EndOffset": 20,
+       "Path": 1,
+       "Ordinal": 1
+      }]
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\Domain\\Article.cs": {
+   "crossblog.Domain.Article": {
+    "System.String crossblog.Domain.Article::get_Title()": {
+     "Lines": {
+      "11": {
+       "Hits": 24
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.String crossblog.Domain.Article::get_Content()": {
+     "Lines": {
+      "15": {
+       "Hits": 21
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.DateTime crossblog.Domain.Article::get_Date()": {
+     "Lines": {
+      "17": {
+       "Hits": 21
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.Boolean crossblog.Domain.Article::get_Published()": {
+     "Lines": {
+      "19": {
+       "Hits": 18
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.Collections.Generic.ICollection`1<crossblog.Domain.Comment> crossblog.Domain.Article::get_Comments()": {
+     "Lines": {
+      "21": {
+       "Hits": 14
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.Void crossblog.Domain.Article::.ctor()": {
+     "Lines": {
+      "23": {
+       "Hits": 7
+      },
+      "24": {
+       "Hits": 7
+      },
+      "25": {
+       "Hits": 7
+      },
+      "26": {
+       "Hits": 7
+      }
+     },
+     "Branches": {
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\Domain\\BaseEntity.cs": {
+   "crossblog.Domain.BaseEntity": {
+    "System.Int32 crossblog.Domain.BaseEntity::get_Id()": {
+     "Lines": {
+      "11": {
+       "Hits": 18
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.DateTime crossblog.Domain.BaseEntity::get_Created_At()": {
+     "Lines": {
+      "13": {
+       "Hits": 14
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.DateTime crossblog.Domain.BaseEntity::get_Updated_At()": {
+     "Lines": {
+      "15": {
+       "Hits": 14
+      }
+     },
+     "Branches": {
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\Domain\\Comment.cs": {
+   "crossblog.Domain.Comment": {
+    "System.Nullable`1<System.Int32> crossblog.Domain.Comment::get_ArticleId()": {
+     "Lines": {
+      "11": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "crossblog.Domain.Article crossblog.Domain.Comment::get_Article()": {
+     "Lines": {
+      "13": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.String crossblog.Domain.Comment::get_Email()": {
+     "Lines": {
+      "17": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.String crossblog.Domain.Comment::get_Title()": {
+     "Lines": {
+      "21": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.String crossblog.Domain.Comment::get_Content()": {
+     "Lines": {
+      "25": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.DateTime crossblog.Domain.Comment::get_Date()": {
+     "Lines": {
+      "27": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.Boolean crossblog.Domain.Comment::get_Published()": {
+     "Lines": {
+      "29": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\Domain\\CrossBlogDbContext.cs": {
+   "crossblog.Domain.CrossBlogDbContext": {
+    "System.Void crossblog.Domain.CrossBlogDbContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<crossblog.Domain.CrossBlogDbContext>)": {
+     "Lines": {
+      "10": {
+       "Hits": 0
+      },
+      "11": {
+       "Hits": 0
+      },
+      "12": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "Microsoft.EntityFrameworkCore.DbSet`1<crossblog.Domain.Article> crossblog.Domain.CrossBlogDbContext::get_Articles()": {
+     "Lines": {
+      "14": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "Microsoft.EntityFrameworkCore.DbSet`1<crossblog.Domain.Comment> crossblog.Domain.CrossBlogDbContext::get_Comments()": {
+     "Lines": {
+      "16": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    },
+    "System.Void crossblog.Domain.CrossBlogDbContext::OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+     "Lines": {
+      "19": {
+       "Hits": 0
+      },
+      "20": {
+       "Hits": 0
+      },
+      "21": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\Controllers\\ArticlesController.cs": {
+   "crossblog.Controllers.ArticlesController": {
+    "System.Void crossblog.Controllers.ArticlesController::.ctor(crossblog.Repositories.IArticleRepository)": {
+     "Lines": {
+      "20": {
+       "Hits": 4
+      },
+      "21": {
+       "Hits": 4
+      },
+      "22": {
+       "Hits": 4
+      },
+      "23": {
+       "Hits": 4
+      }
+     },
+     "Branches": {
+      "22": [{
+       "Offset": 11,
+       "EndOffset": 13,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 11,
+       "EndOffset": 25,
+       "Path": 1,
+       "Ordinal": 1
+      }]
+     }
+    }
+   },
+   "crossblog.Controllers.ArticlesController/<>c": {
+    "crossblog.Model.ArticleModel crossblog.Controllers.ArticlesController/<>c::<Search>b__2_2(crossblog.Domain.Article)": {
+     "Lines": {
+      "40": {
+       "Hits": 5
+      },
+      "41": {
+       "Hits": 5
+      },
+      "42": {
+       "Hits": 5
+      },
+      "43": {
+       "Hits": 5
+      },
+      "44": {
+       "Hits": 5
+      },
+      "45": {
+       "Hits": 5
+      },
+      "46": {
+       "Hits": 5
+      },
+      "47": {
+       "Hits": 5
+      }
+     },
+     "Branches": {
+     }
+    }
+   },
+   "crossblog.Controllers.ArticlesController/<Search>d__2": {
+    "System.Void crossblog.Controllers.ArticlesController/<Search>d__2::MoveNext()": {
+     "Lines": {
+      "28": {
+       "Hits": 2
+      },
+      "29": {
+       "Hits": 2
+      },
+      "30": {
+       "Hits": 0
+      },
+      "32": {
+       "Hits": 2
+      },
+      "33": {
+       "Hits": 2
+      },
+      "34": {
+       "Hits": 2
+      },
+      "35": {
+       "Hits": 2
+      },
+      "36": {
+       "Hits": 2
+      },
+      "38": {
+       "Hits": 2
+      },
+      "39": {
+       "Hits": 2
+      },
+      "48": {
+       "Hits": 2
+      },
+      "50": {
+       "Hits": 2
+      },
+      "51": {
+       "Hits": 2
+      }
+     },
+     "Branches": {
+      "29": [{
+       "Offset": 64,
+       "EndOffset": 66,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 64,
+       "EndOffset": 83,
+       "Path": 1,
+       "Ordinal": 1
+      }],
+      "32": [{
+       "Offset": 421,
+       "EndOffset": 423,
+       "Path": 0,
+       "Ordinal": 2
+      }, {
+       "Offset": 421,
+       "EndOffset": 491,
+       "Path": 1,
+       "Ordinal": 3
+      }],
+      "38": [{
+       "Offset": 542,
+       "EndOffset": 544,
+       "Path": 0,
+       "Ordinal": 4
+      }, {
+       "Offset": 542,
+       "EndOffset": 567,
+       "Path": 1,
+       "Ordinal": 5
+      }]
+     }
+    }
+   },
+   "crossblog.Controllers.ArticlesController/<Get>d__3": {
+    "System.Void crossblog.Controllers.ArticlesController/<Get>d__3::MoveNext()": {
+     "Lines": {
+      "56": {
+       "Hits": 2
+      },
+      "57": {
+       "Hits": 2
+      },
+      "58": {
+       "Hits": 0
+      },
+      "60": {
+       "Hits": 2
+      },
+      "61": {
+       "Hits": 2
+      },
+      "62": {
+       "Hits": 1
+      },
+      "64": {
+       "Hits": 1
+      },
+      "65": {
+       "Hits": 1
+      },
+      "66": {
+       "Hits": 1
+      },
+      "67": {
+       "Hits": 1
+      },
+      "68": {
+       "Hits": 1
+      },
+      "69": {
+       "Hits": 1
+      },
+      "70": {
+       "Hits": 1
+      },
+      "71": {
+       "Hits": 1
+      },
+      "73": {
+       "Hits": 1
+      },
+      "74": {
+       "Hits": 2
+      }
+     },
+     "Branches": {
+      "57": [{
+       "Offset": 31,
+       "EndOffset": 33,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 31,
+       "EndOffset": 50,
+       "Path": 1,
+       "Ordinal": 1
+      }],
+      "60": [{
+       "Offset": 85,
+       "EndOffset": 87,
+       "Path": 0,
+       "Ordinal": 2
+      }, {
+       "Offset": 85,
+       "EndOffset": 155,
+       "Path": 1,
+       "Ordinal": 3
+      }],
+      "61": [{
+       "Offset": 200,
+       "EndOffset": 202,
+       "Path": 0,
+       "Ordinal": 4
+      }, {
+       "Offset": 200,
+       "EndOffset": 219,
+       "Path": 1,
+       "Ordinal": 5
+      }]
+     }
+    }
+   },
+   "crossblog.Controllers.ArticlesController/<Post>d__4": {
+    "System.Void crossblog.Controllers.ArticlesController/<Post>d__4::MoveNext()": {
+     "Lines": {
+      "79": {
+       "Hits": 0
+      },
+      "80": {
+       "Hits": 0
+      },
+      "81": {
+       "Hits": 0
+      },
+      "83": {
+       "Hits": 0
+      },
+      "84": {
+       "Hits": 0
+      },
+      "85": {
+       "Hits": 0
+      },
+      "86": {
+       "Hits": 0
+      },
+      "87": {
+       "Hits": 0
+      },
+      "88": {
+       "Hits": 0
+      },
+      "89": {
+       "Hits": 0
+      },
+      "91": {
+       "Hits": 0
+      },
+      "93": {
+       "Hits": 0
+      },
+      "94": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "80": [{
+       "Offset": 39,
+       "EndOffset": 41,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 39,
+       "EndOffset": 69,
+       "Path": 1,
+       "Ordinal": 1
+      }],
+      "91": [{
+       "Offset": 187,
+       "EndOffset": 189,
+       "Path": 0,
+       "Ordinal": 2
+      }, {
+       "Offset": 187,
+       "EndOffset": 257,
+       "Path": 1,
+       "Ordinal": 3
+      }]
+     }
+    }
+   },
+   "crossblog.Controllers.ArticlesController/<Put>d__5": {
+    "System.Void crossblog.Controllers.ArticlesController/<Put>d__5::MoveNext()": {
+     "Lines": {
+      "99": {
+       "Hits": 0
+      },
+      "100": {
+       "Hits": 0
+      },
+      "101": {
+       "Hits": 0
+      },
+      "103": {
+       "Hits": 0
+      },
+      "104": {
+       "Hits": 0
+      },
+      "105": {
+       "Hits": 0
+      },
+      "108": {
+       "Hits": 0
+      },
+      "110": {
+       "Hits": 0
+      },
+      "111": {
+       "Hits": 0
+      },
+      "113": {
+       "Hits": 0
+      },
+      "114": {
+       "Hits": 0
+      },
+      "115": {
+       "Hits": 0
+      },
+      "116": {
+       "Hits": 0
+      },
+      "118": {
+       "Hits": 0
+      },
+      "120": {
+       "Hits": 0
+      },
+      "121": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "99": [{
+       "Offset": 14,
+       "EndOffset": 28,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 14,
+       "EndOffset": 450,
+       "Path": 1,
+       "Ordinal": 1
+      }],
+      "100": [{
+       "Offset": 45,
+       "EndOffset": 47,
+       "Path": 0,
+       "Ordinal": 2
+      }, {
+       "Offset": 45,
+       "EndOffset": 64,
+       "Path": 1,
+       "Ordinal": 3
+      }],
+      "103": [{
+       "Offset": 85,
+       "EndOffset": 87,
+       "Path": 0,
+       "Ordinal": 4
+      }, {
+       "Offset": 85,
+       "EndOffset": 116,
+       "Path": 1,
+       "Ordinal": 5
+      }],
+      "108": [{
+       "Offset": 152,
+       "EndOffset": 154,
+       "Path": 0,
+       "Ordinal": 6
+      }, {
+       "Offset": 152,
+       "EndOffset": 224,
+       "Path": 1,
+       "Ordinal": 7
+      }],
+      "110": [{
+       "Offset": 269,
+       "EndOffset": 271,
+       "Path": 0,
+       "Ordinal": 8
+      }, {
+       "Offset": 269,
+       "EndOffset": 288,
+       "Path": 1,
+       "Ordinal": 9
+      }],
+      "118": [{
+       "Offset": 410,
+       "EndOffset": 412,
+       "Path": 0,
+       "Ordinal": 10
+      }, {
+       "Offset": 410,
+       "EndOffset": 479,
+       "Path": 1,
+       "Ordinal": 11
+      }]
+     }
+    }
+   },
+   "crossblog.Controllers.ArticlesController/<Delete>d__6": {
+    "System.Void crossblog.Controllers.ArticlesController/<Delete>d__6::MoveNext()": {
+     "Lines": {
+      "126": {
+       "Hits": 0
+      },
+      "127": {
+       "Hits": 0
+      },
+      "128": {
+       "Hits": 0
+      },
+      "130": {
+       "Hits": 0
+      },
+      "132": {
+       "Hits": 0
+      },
+      "133": {
+       "Hits": 0
+      },
+      "135": {
+       "Hits": 0
+      },
+      "137": {
+       "Hits": 0
+      },
+      "138": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "126": [{
+       "Offset": 14,
+       "EndOffset": 25,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 14,
+       "EndOffset": 306,
+       "Path": 1,
+       "Ordinal": 1
+      }],
+      "127": [{
+       "Offset": 42,
+       "EndOffset": 44,
+       "Path": 0,
+       "Ordinal": 2
+      }, {
+       "Offset": 42,
+       "EndOffset": 61,
+       "Path": 1,
+       "Ordinal": 3
+      }],
+      "130": [{
+       "Offset": 96,
+       "EndOffset": 98,
+       "Path": 0,
+       "Ordinal": 4
+      }, {
+       "Offset": 96,
+       "EndOffset": 166,
+       "Path": 1,
+       "Ordinal": 5
+      }],
+      "132": [{
+       "Offset": 211,
+       "EndOffset": 213,
+       "Path": 0,
+       "Ordinal": 6
+      }, {
+       "Offset": 211,
+       "EndOffset": 230,
+       "Path": 1,
+       "Ordinal": 7
+      }],
+      "135": [{
+       "Offset": 266,
+       "EndOffset": 268,
+       "Path": 0,
+       "Ordinal": 8
+      }, {
+       "Offset": 266,
+       "EndOffset": 335,
+       "Path": 1,
+       "Ordinal": 9
+      }]
+     }
+    }
+   }
+  },
+  "D:\\projects\\crossblogs\\crossblog\\Controllers\\CommentsController.cs": {
+   "crossblog.Controllers.CommentsController": {
+    "System.Void crossblog.Controllers.CommentsController::.ctor(crossblog.Repositories.IArticleRepository,crossblog.Repositories.ICommentRepository)": {
+     "Lines": {
+      "19": {
+       "Hits": 0
+      },
+      "20": {
+       "Hits": 0
+      },
+      "21": {
+       "Hits": 0
+      },
+      "22": {
+       "Hits": 0
+      },
+      "23": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "21": [{
+       "Offset": 11,
+       "EndOffset": 13,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 11,
+       "EndOffset": 25,
+       "Path": 1,
+       "Ordinal": 1
+      }],
+      "22": [{
+       "Offset": 33,
+       "EndOffset": 35,
+       "Path": 0,
+       "Ordinal": 2
+      }, {
+       "Offset": 33,
+       "EndOffset": 47,
+       "Path": 1,
+       "Ordinal": 3
+      }]
+     }
+    }
+   },
+   "crossblog.Controllers.CommentsController/<>c": {
+    "crossblog.Model.CommentModel crossblog.Controllers.CommentsController/<>c::<Get>b__3_0(crossblog.Domain.Comment)": {
+     "Lines": {
+      "39": {
+       "Hits": 0
+      },
+      "40": {
+       "Hits": 0
+      },
+      "41": {
+       "Hits": 0
+      },
+      "42": {
+       "Hits": 0
+      },
+      "43": {
+       "Hits": 0
+      },
+      "44": {
+       "Hits": 0
+      },
+      "45": {
+       "Hits": 0
+      },
+      "46": {
+       "Hits": 0
+      },
+      "47": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+     }
+    }
+   },
+   "crossblog.Controllers.CommentsController/<Get>d__3": {
+    "System.Void crossblog.Controllers.CommentsController/<Get>d__3::MoveNext()": {
+     "Lines": {
+      "28": {
+       "Hits": 0
+      },
+      "29": {
+       "Hits": 0
+      },
+      "30": {
+       "Hits": 0
+      },
+      "32": {
+       "Hits": 0
+      },
+      "34": {
+       "Hits": 0
+      },
+      "35": {
+       "Hits": 0
+      },
+      "37": {
+       "Hits": 0
+      },
+      "38": {
+       "Hits": 0
+      },
+      "48": {
+       "Hits": 0
+      },
+      "50": {
+       "Hits": 0
+      },
+      "51": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "29": [{
+       "Offset": 31,
+       "EndOffset": 33,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 31,
+       "EndOffset": 50,
+       "Path": 1,
+       "Ordinal": 1
+      }],
+      "32": [{
+       "Offset": 85,
+       "EndOffset": 87,
+       "Path": 0,
+       "Ordinal": 2
+      }, {
+       "Offset": 85,
+       "EndOffset": 155,
+       "Path": 1,
+       "Ordinal": 3
+      }],
+      "34": [{
+       "Offset": 200,
+       "EndOffset": 202,
+       "Path": 0,
+       "Ordinal": 4
+      }, {
+       "Offset": 200,
+       "EndOffset": 216,
+       "Path": 1,
+       "Ordinal": 5
+      }],
+      "37": [{
+       "Offset": 240,
+       "EndOffset": 242,
+       "Path": 0,
+       "Ordinal": 6
+      }, {
+       "Offset": 240,
+       "EndOffset": 265,
+       "Path": 1,
+       "Ordinal": 7
+      }]
+     }
+    }
+   },
+   "crossblog.Controllers.CommentsController/<Get>d__4": {
+    "System.Void crossblog.Controllers.CommentsController/<Get>d__4::MoveNext()": {
+     "Lines": {
+      "56": {
+       "Hits": 0
+      },
+      "57": {
+       "Hits": 0
+      },
+      "58": {
+       "Hits": 0
+      },
+      "60": {
+       "Hits": 0
+      },
+      "61": {
+       "Hits": 0
+      },
+      "62": {
+       "Hits": 0
+      },
+      "64": {
+       "Hits": 0
+      },
+      "65": {
+       "Hits": 0
+      },
+      "66": {
+       "Hits": 0
+      },
+      "67": {
+       "Hits": 0
+      },
+      "68": {
+       "Hits": 0
+      },
+      "69": {
+       "Hits": 0
+      },
+      "70": {
+       "Hits": 0
+      },
+      "71": {
+       "Hits": 0
+      },
+      "72": {
+       "Hits": 0
+      },
+      "74": {
+       "Hits": 0
+      },
+      "75": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "57": [{
+       "Offset": 79,
+       "EndOffset": 81,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 79,
+       "EndOffset": 102,
+       "Path": 1,
+       "Ordinal": 1
+      }, {
+       "Offset": 105,
+       "EndOffset": 107,
+       "Path": 0,
+       "Ordinal": 2
+      }, {
+       "Offset": 105,
+       "EndOffset": 124,
+       "Path": 1,
+       "Ordinal": 3
+      }],
+      "60": [{
+       "Offset": 352,
+       "EndOffset": 354,
+       "Path": 0,
+       "Ordinal": 4
+      }, {
+       "Offset": 352,
+       "EndOffset": 422,
+       "Path": 1,
+       "Ordinal": 5
+      }],
+      "61": [{
+       "Offset": 467,
+       "EndOffset": 469,
+       "Path": 0,
+       "Ordinal": 6
+      }, {
+       "Offset": 467,
+       "EndOffset": 486,
+       "Path": 1,
+       "Ordinal": 7
+      }]
+     }
+    }
+   },
+   "crossblog.Controllers.CommentsController/<Post>d__5": {
+    "System.Void crossblog.Controllers.CommentsController/<Post>d__5::MoveNext()": {
+     "Lines": {
+      "80": {
+       "Hits": 0
+      },
+      "81": {
+       "Hits": 0
+      },
+      "82": {
+       "Hits": 0
+      },
+      "84": {
+       "Hits": 0
+      },
+      "85": {
+       "Hits": 0
+      },
+      "87": {
+       "Hits": 0
+      },
+      "88": {
+       "Hits": 0
+      },
+      "89": {
+       "Hits": 0
+      },
+      "90": {
+       "Hits": 0
+      },
+      "91": {
+       "Hits": 0
+      },
+      "92": {
+       "Hits": 0
+      },
+      "93": {
+       "Hits": 0
+      },
+      "94": {
+       "Hits": 0
+      },
+      "95": {
+       "Hits": 0
+      },
+      "97": {
+       "Hits": 0
+      },
+      "99": {
+       "Hits": 0
+      },
+      "100": {
+       "Hits": 0
+      },
+      "101": {
+       "Hits": 0
+      },
+      "102": {
+       "Hits": 0
+      },
+      "103": {
+       "Hits": 0
+      },
+      "104": {
+       "Hits": 0
+      },
+      "105": {
+       "Hits": 0
+      },
+      "106": {
+       "Hits": 0
+      },
+      "107": {
+       "Hits": 0
+      },
+      "109": {
+       "Hits": 0
+      },
+      "110": {
+       "Hits": 0
+      }
+     },
+     "Branches": {
+      "81": [{
+       "Offset": 34,
+       "EndOffset": 36,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 34,
+       "EndOffset": 53,
+       "Path": 1,
+       "Ordinal": 1
+      }],
+      "84": [{
+       "Offset": 74,
+       "EndOffset": 76,
+       "Path": 0,
+       "Ordinal": 2
+      }, {
+       "Offset": 74,
+       "EndOffset": 104,
+       "Path": 1,
+       "Ordinal": 3
+      }],
+      "97": [{
+       "Offset": 248,
+       "EndOffset": 250,
+       "Path": 0,
+       "Ordinal": 4
+      }, {
+       "Offset": 248,
+       "EndOffset": 320,
+       "Path": 1,
+       "Ordinal": 5
+      }]
+     }
+    }
+   }
+  }
+ }
+}
